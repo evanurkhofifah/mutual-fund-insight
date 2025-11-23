@@ -1,0 +1,11 @@
+google-genai
+streamlit
+pandas
+pillow
+langchain
+langchain-community
+langgraph
+langchain-google-genai
+langchain-groq 
+faiss-cpu
+PyMuPDF
